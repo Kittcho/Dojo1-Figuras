@@ -12,7 +12,7 @@ Crear un sistema que calcule el perímetro o área de las siguentes figuras:
 ## Formulas
 ### Perímetro
  
- **1. Cuadrado:** Lado + Lado + Lado + Lado.
- **2. Triangulo equilatero:** Lado + Lado + Lado.
- **3. Rectangulo:** Base por Altura.
- **4. Circulo:** 2 por PI por Radio ó Diametro por PI.
+ **1. Cuadrado:** Lado + Lado + Lado + Lado.  
+ **2. Triangulo equilatero:** Lado + Lado + Lado.  
+ **3. Rectangulo:** Base por Altura.  
+ **4. Circulo:** 2 por PI por Radio ó Diametro por PI.  
