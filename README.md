@@ -20,6 +20,6 @@ Crear un sistema que calcule el perímetro o área de las siguentes figuras:
  ### Área
  
  **1. Cuadrado:** Lado por Lado.  
- **2. Triangulo equilatero:** Base por Altura sobre 2.  
+ **2. Triangulo equilatero:** (Base por Altura) sobre 2.  
  **3. Rectangulo:** Base por Altura.  
  **4. Circulo:** (PI por Radio) al cuadrado. 
