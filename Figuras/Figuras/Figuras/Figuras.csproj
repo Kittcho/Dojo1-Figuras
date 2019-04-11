@@ -44,12 +44,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CCirculo.cs" />
+    <Compile Include="CCuadrado.cs" />
+    <Compile Include="CRectangulo.cs" />
+    <Compile Include="CTriangulo.cs" />
     <Compile Include="FrmPerimetroAreas.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmPerimetroAreas.Designer.cs">
       <DependentUpon>FrmPerimetroAreas.cs</DependentUpon>
     </Compile>
+    <Compile Include="IFigura.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmPerimetroAreas.resx">
